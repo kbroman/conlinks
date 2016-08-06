@@ -2,12 +2,10 @@
 
 ## 2016
 
-- [Joint Statistical Meetings](https://www.amstat.org/meetings/jsm/2016/), Chicago, Illinois, 2016-07-03 -
-  2016-08-04
+- [Joint Statistical Meetings](https://www.amstat.org/meetings/jsm/2016/), Chicago, Illinois, 2016-07-03 - 2016-08-04
   \[[slides](https://github.com/kbroman/JSM2016slides)\]
 
-- [UseR! 2016](http://user2016.org/), Stanford, California, 2016-06-27
-  - 2016-06-30
+- [UseR! 2016](http://user2016.org/), Stanford, California, 2016-06-27 - 2016-06-30
   \[[slides](https://rweekly.org/user2016.html) | [videos](https://channel9.msdn.com/Events/useR-international-R-User-conference/useR2016)\]
 
 ## 2014
