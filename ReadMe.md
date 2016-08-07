@@ -8,6 +8,10 @@
 - [UseR! 2016](http://user2016.org/), Stanford (27-30 Jun)
   \[[slides](https://rweekly.org/user2016.html) | [videos](https://channel9.msdn.com/Events/useR-international-R-User-conference/useR2016)\]
 
+## 2015
+
+- [UseR! 2015](http://user2015.math.aau.dk), Aalborg, Denmark (30 Jun - 3 Jul) \[[slides within schedule](http://user2015.math.aau.dk/oral_sessions)\]
+
 ## 2014
 
 - [UseR! 2014](http://user2014.stat.ucla.edu/), Los Angeles (30 Jun - 3 Jul)
