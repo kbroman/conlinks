@@ -8,7 +8,7 @@
 - [UseR! 2016](http://user2016.org/), Stanford (27-30 Jun)
   \[[slides](https://rweekly.org/user2016.html) | [videos](https://channel9.msdn.com/Events/useR-international-R-User-conference/useR2016)\]
 
-- [National Institute for Computer-Assisted Reporting (NICAR)](http://www.ire.org/conferences/nicar2016/), Denver (10-13 Mar) \[[slides](http://blog.chryswu.com/2016/03/08/nicar16-slides-links-tutorials-resources/)
+- [National Institute for Computer-Assisted Reporting (NICAR)](http://www.ire.org/conferences/nicar2016/), Denver (10-13 Mar) \[[slides](http://blog.chryswu.com/2016/03/08/nicar16-slides-links-tutorials-resources/)\]
 
 ## 2015
 
