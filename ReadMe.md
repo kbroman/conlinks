@@ -1,5 +1,9 @@
 # Lists of links to conference slides
 
+## 2017
+
+- [rstudio::conf](https://www.rstudio.com/conference/) \[[slides](github.com/kbroman/RStudioConf2017Slides)\]
+
 ## 2016
 
 - [Joint Statistical Meetings](https://www.amstat.org/meetings/jsm/2016/), Chicago (31 Jul - 4 Aug)
