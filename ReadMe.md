@@ -2,7 +2,7 @@
 
 ## 2017
 
-- [rstudio::conf](https://www.rstudio.com/conference/) \[[slides](github.com/kbroman/RStudioConf2017Slides)\]
+- [rstudio::conf](https://www.rstudio.com/conference/) \[[slides](https://github.com/kbroman/RStudioConf2017Slides)\]
 
 ## 2016
 
