@@ -2,6 +2,8 @@
 
 ## 2017
 
+- [OpenVisConf](https://openvisconf.com) \[[slides](https://github.com/kbroman/OpenVisConf2017Slides)\]
+
 - [rstudio::conf](https://www.rstudio.com/conference/) \[[slides](https://github.com/kbroman/RStudioConf2017Slides)\]
 
 ## 2016
