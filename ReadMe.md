@@ -2,9 +2,9 @@
 
 ## 2017
 
-- [OpenVisConf](https://openvisconf.com) \[[slides](https://github.com/kbroman/OpenVisConf2017Slides)\]
+- [OpenVisConf](https://openvisconf.com), Boston (23 Apr - 24 Apr) \[[slides](https://github.com/kbroman/OpenVisConf2017Slides)\]
 
-- [rstudio::conf](https://www.rstudio.com/conference/) \[[slides](https://github.com/kbroman/RStudioConf2017Slides)\]
+- [rstudio::conf](https://www.rstudio.com/conference/), Orlando (12 Jan - 14 Jan) \[[slides](https://github.com/kbroman/RStudioConf2017Slides)\]
 
 ## 2016
 
